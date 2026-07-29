@@ -198,7 +198,7 @@ body {
     }
 
     #AI-promo h1 {
-        font-size: 3rem;
+        font-size: 4rem;
     }
 
     #AI-promo p {
@@ -236,7 +236,7 @@ body {
         grid-area: write;
         height: 35%; 
         position: relative;
-        top: -17%; 
+        top: -18%; 
     }
 
     #write-with-AI-section h2 {
@@ -255,7 +255,7 @@ body {
         grid-area: manage;
         height: 30%;
         position: relative;
-        top: -40%; 
+        top: -45%; 
     }
 
     #social-media h2 {
@@ -265,20 +265,20 @@ body {
     #schedule-advantage {
         grid-area: maintain;
         position: relative; 
-        top: -40%; 
+        top: -45%; 
     }
 
     #audience-growth-section {
         grid-area: stat; 
         height: 30%; 
         position: relative; 
-        top: -100%; 
+        top: -110%; 
     }
 
     #grow-followers-section {
         grid-area: grow; 
         position: relative;
-        top: -104%; 
+        top: -109%; 
         height: 30%;
         left: -2%; 
     }
@@ -291,6 +291,7 @@ body {
 
     #grow-followers-section h2 {
         font-size: 2.5rem;
+        font-weight: 700;
         position: relative;
         top: -160%; 
         left: 25%; 
