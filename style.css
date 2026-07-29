@@ -166,10 +166,6 @@ body {
 }
 
 @media (min-width: 1440px) {
-    body {
-        margin: 0 auto;  
-        display: block;
-    }
     main {
         display: grid;
         grid-template-areas:
